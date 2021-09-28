@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    max-width: 1050px !important;
+    margin: auto;
+}
+h1{
+    color: white;
+}
+
+img{
+    width: 500px;
+}
