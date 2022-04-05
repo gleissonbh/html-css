@@ -3,7 +3,7 @@
 body{
     background-image: url('imagens/espaco.jpg');
     background-position: center center;
-    background-size: contain;
+    background-size: cover;
 }
 
 div#q1{
